@@ -73,4 +73,4 @@ performance(pred,"auc")
 
 # AUC = 60% (better than random)
 
-
+# end
